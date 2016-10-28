@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# hello
 import os
 import os.path
 rootdir = "/opt/sebox"
