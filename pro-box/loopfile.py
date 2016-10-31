@@ -2,6 +2,7 @@
 # hello
 # hello again
 # hi again
+# 2
 import os
 import os.path
 rootdir = "/opt/sebox"
